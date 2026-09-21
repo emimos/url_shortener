@@ -1,0 +1,6 @@
+{
+  "name": "URL Shortener & Analytics",
+  "description": "High-performance Node.js and MongoDB URL shortener with real-time redirection, QR code generation, and responsive analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
